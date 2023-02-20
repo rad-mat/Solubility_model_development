@@ -9,6 +9,7 @@ Selected algorithms (from scikit-learn, TensorFlow, Keras):
 - decision tree
 - random forest 
 - gradient boost
+- SVR
 - MLP
 - DNN
 
